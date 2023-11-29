@@ -1,0 +1,26 @@
+aside {
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+}
+
+aside a{
+    color: var(--color-primary-dark);
+    margin-bottom: 30px;
+}
+
+aside p{
+    margin: 0;
+}
+
+aside {
+
+    transition: all .5s ease;
+
+}
+
+aside :hover {
+    
+    transform: scale(1.05);
+    
+}

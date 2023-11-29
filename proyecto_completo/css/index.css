@@ -1,0 +1,13 @@
+.carousel-inner {
+
+    transition: all .5s ease;
+
+}
+
+.carousel-inner :hover {
+    
+    transform: scale(1.05);
+    
+}
+
+ 
